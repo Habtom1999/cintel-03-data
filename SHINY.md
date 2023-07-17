@@ -5,7 +5,7 @@ We follow the same, consistent process to create and deploy a new Shiny app. Rep
 ## Create a Virtual Environment
 
 ```shell
-python -m venv .venv
+python -m venv .venv 
 ```
 
 ## Activate the Virtual Environment
